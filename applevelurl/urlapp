@@ -1,0 +1,9 @@
+from django.conf.urls import url
+from urls import views
+urlpatterns=[
+url(r'^hydjobs/',views.hydjobsinfo),
+url(r'^chejobs/',views.chejobsinfo),
+url(r'^banjobs/',views.banjobsinfo),
+url(r'^punejobs/',views.punjobsinfo),
+            ]
+

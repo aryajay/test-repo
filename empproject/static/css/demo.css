@@ -1,0 +1,13 @@
+h1
+{
+color:red;
+text_align=center;
+}
+table
+{
+margin:auto;
+border:2px solid red;
+color:red;
+background:yellow;
+font_size:25px;
+}
